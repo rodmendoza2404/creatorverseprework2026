@@ -34,12 +34,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
-
-👉🏿<img src='http://i.imgur.com/link/to/your/gif/YIMLMrs.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-👉🏿<img src='[http://i.imgur.com/link/to/your/gif/YIMLMrs.gif](https://i.imgur.com/YIMLMrs.mp4)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-👉🏿<img src='https://imgur.com/gallery/web103prework2026-gUxp6pZ#YIMLMrs' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-https://imgur.com/gallery/web103prework2026-gUxp6pZ#YIMLMrs
+👉🏿<img src="https://i.imgur.com/YIMLMrs.gif" title="Video Walkthrough" width="" alt="Video Walkthrough" />
 
 https://i.imgur.com/YIMLMrs.gif
 
